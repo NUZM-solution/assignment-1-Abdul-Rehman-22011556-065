@@ -1,0 +1,10 @@
+C:\Users\rehma\source\repos\Data\Data\bin\Debug\Data.exe.config
+C:\Users\rehma\source\repos\Data\Data\bin\Debug\Data.exe
+C:\Users\rehma\source\repos\Data\Data\bin\Debug\Data.pdb
+C:\Users\rehma\source\repos\Data\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\rehma\source\repos\Data\Data\obj\Debug\Data.Form1.resources
+C:\Users\rehma\source\repos\Data\Data\obj\Debug\Data.Properties.Resources.resources
+C:\Users\rehma\source\repos\Data\Data\obj\Debug\Data.csproj.GenerateResource.cache
+C:\Users\rehma\source\repos\Data\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\rehma\source\repos\Data\Data\obj\Debug\Data.exe
+C:\Users\rehma\source\repos\Data\Data\obj\Debug\Data.pdb
